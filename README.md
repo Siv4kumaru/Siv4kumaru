@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Siv4kumaru
-- 👀 I’m interested in Data science and mathematics 
-- 🌱 I’m currently learning ASP.net Core MVC, javascript, vue , C# , TSQL
-- 💞️ I’m looking to collaborate on data science and web dev projects
-- 📫 reach me via sktriple777@gmail.com
+- Hi, I’m @Siv4kumaru
+- I’m interested in Data science and mathematics 
+- I’m currently learning ASP.net Core MVC, javascript, vue , C# , TSQL
+- I’m looking to collaborate on data science and web dev projects
+-  reach me via sktriple777@gmail.com
 
 
 <!---
