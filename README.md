@@ -3,7 +3,7 @@
 - I’m currently learning Laravel,php,Selenium, javascript, vue , C# , TSQL ,ASP.net Core MVC,
 - reach me via sktriple777@gmail.com
 
-![images](https://github.com/user-attachments/assets/18d8c5c5-3412-42dc-b750-3c748cc75805)
+
 
 
 
