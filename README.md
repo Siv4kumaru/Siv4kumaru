@@ -1,9 +1,9 @@
 # 👋 Hi, I’m [Siva Kumar Prasad](https://techonebytwo.com/siv4kumaru)
 
 🧠 I'm a Data Science guy with a math brain and a programming soul.  
+🤖 Obsessed with **ML**, **DL**, **NLP** and letting machines do the thinking.  
 🏗️ Experienced in building **B2B enterprise-level software** that doesn’t crash (often).  
 ⚙️ I like to **automate things**, play with **data**, and lurk around the **backend**.  
-🤖 Mildly obsessed with **ML**, **DL**, and letting machines do the thinking.  
 
 ---
 
