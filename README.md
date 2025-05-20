@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Siva Kumar Prasad](https://techonebytwo.com/siv4kumaru)
+# 👋 Hi, I’m [Siva Kumar Prasad]
 
 🧠 I'm a Data Science guy with a math brain and a programming soul.  
 🤖 Obsessed with **ML**, **DL**, **NLP** and letting machines do the thinking.  
