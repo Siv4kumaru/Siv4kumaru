@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Siva Kumar Prasad]
+# 👋 Hi, I’m [Siva Kumar Prasad](https://github.com/Siv4kumaru)
 
 🧠 I'm a Data Science guy with a math brain and a programming soul.  
 🤖 Obsessed with **ML**, **DL**, **NLP** and letting machines do the thinking.  
