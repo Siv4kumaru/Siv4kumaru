@@ -9,7 +9,6 @@
 
 ### 🧰 Main Tech Stack
 - 🐍 **Python** – scripting, backend, AI, you name it  
-- 🦫  **Go** – The **GOD CHOOSEN Language** for backend
 - 🐘 **PHP / Laravel** – building web,**The Artisan** way  
 - 🧠 **SQL** - Without you im nothing  
 - 🌐 **JavaScript** – for client side web interativity   
